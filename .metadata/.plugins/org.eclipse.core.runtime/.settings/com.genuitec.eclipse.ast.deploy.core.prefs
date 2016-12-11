@@ -1,0 +1,13 @@
+#Mon Jun 27 10:12:03 CST 2016
+tomcat6Server.shop.isExploded=true
+tomcat6Server.shop.shouldBackup=false
+tomcat6Server.shop.isUptoDate=true
+tomcat6Server.shop.deployIsOverProject=false
+tomcat6Server.shop.isDeployed=true
+eclipse.preferences.version=1
+tomcat6Server.shop.shouldOverwrite=false
+tomcat6Server.shop.contextRoot=/shop
+tomcat6Server.shop.altContextRoot=
+tomcat6Server.shop.type=WebDeployment
+tomcat6Server.shop.IEARProjectName=
+tomcat6Server.shop.deploymentPath=D\:\\apache-tomcat-6.0.37.3-shop\\webapps\\shop

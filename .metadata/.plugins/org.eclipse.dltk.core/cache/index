@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="D:/MyEclipse-8.5-WorkSpace/shop/Library/WebRoot/JS/onclock.JS" timestamp="1208800876000" lastAccessTime="1472879516443"/>
+  <entries path="D:/MyEclipse-8.5-WorkSpace/shop/Library/WebRoot/JS/function.js" timestamp="1208800896000" lastAccessTime="1472879516461"/>
+  <entries path="D:/MyEclipse-8.5-WorkSpace/shop/Library/WebRoot/JS/menu.JS" timestamp="1211293086000" lastAccessTime="1472879516467"/>
+</cache:CacheIndex>
